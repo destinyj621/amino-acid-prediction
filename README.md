@@ -1,3 +1,5 @@
+****ChimeraX AlphaFold Prediction Automation****
+
 **Overview**
 
 This project focuses on automating AlphaFold predictions using ChimeraX, a molecular visualization program, and Google Colab, a cloud-based Jupyter notebook environment. The automation leverages the convenience of Google Sheets for seamless implementation and interaction.
